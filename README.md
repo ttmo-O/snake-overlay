@@ -6,9 +6,9 @@ Meetup 3'te kullandığımız yılanın kaynak kodu. Gecenin geç saatlerinde or
 
 Öncelikle flask modülünü yükleyin. Daha sonra dosyanın bulunduğu dizinde aşağıdaki kabuk kodlarını çalıştırın:
 
-'''
+```
 $ export FLASK_APP='snake.py'
 $ python -m flask run
-'''
+```
 
 Daha sonra http://localhost:5000/ adresinde yılanı bulacaksınız.
